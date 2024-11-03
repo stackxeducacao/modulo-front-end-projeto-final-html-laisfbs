@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+i {
+    color: white; 
+}
+
+.contato {
+    color: white; 
+    font-weight: bold; 
+}
